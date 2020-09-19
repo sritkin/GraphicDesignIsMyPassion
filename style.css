@@ -1,0 +1,180 @@
+
+#ul1{
+    display: inline;
+}
+.inline{
+    display: inline;
+    padding-right:50px;
+}
+.buttons{
+    background-color: #57b85a;
+    border: none;
+    color: aqua;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+}
+/* button shape*/
+.button1{
+    border-radius: 32px;
+}
+.button2{
+    border-radius: 32px;
+}
+.button3{
+    border-radius: 32px;
+}
+.button4{
+    border-radius: 32px;
+}
+#storeHeadTop{
+    display: inline;
+}
+/*align the names of my store types above images */
+.storeHead1{
+    display: inline;
+    margin-left: 40px;
+    margin-right: 125px;
+    text-align: center;
+}
+.storeHead2{
+    display: inline;
+    margin-left: 50px;
+    margin-right: 150px;
+    text-align: center;
+}
+
+
+.storeHead3{
+    display: inline;
+    margin-left: 50px;
+    margin-right: 125px;
+    text-align: center;
+}
+
+/* end of store type positioning*/
+
+.shopLine{
+    display: inline;
+}
+.shopBlock{
+    display: inline;
+    padding-right:90px;
+}
+
+img{
+    height:140px;
+    width: 175px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+#legal{
+   
+    float: right;
+    text-align: right;
+}
+/*video nonsense*/
+#stars{
+    position: fixed;
+    right:0;
+    bottom:0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+/* Text color to be "readable" on video bg.*/
+h1{
+    color:aqua;
+}
+.storeHead1{
+    color:aqua;
+}
+.storeHead2{
+    color:aqua;
+}
+.storeHead3{
+    color:aqua;
+}
+.nav{
+    color: aqua;
+}
+#waitinglist{
+    color: aqua;
+}
+.ccstuff .p{
+    color: aqua;
+}
+/*
+I spent hours painstakingly aligning everything with margins, padding, and prayer. Then further styling ruined all that. 
+This ONE LINE OF CODE was more efficient than 2 hours of my life, Amanda! Massive gap of blank space is left as memorial to lost sleep.
+*/
+.centerEVERYTHING{text-align: center;}
+
+/*reviews fixes*/
+.reviews{
+    border: 2px solid aqua;
+    background-color: #57b85a;
+    border-radius: 5px;
+    padding: 30px;
+    padding-bottom: 350px;
+    margin:16px 0;
+    height: 190px;
+    width: 190px;
+    float: right;
+    position: relative;
+    margin-top: -625px;
+    color: ivory; /*this could have been white, but why settle*/
+}
+.reviews img{
+
+float: top;
+text-align: center;
+margin-right: 20px;
+border-radius:50%;
+width: 90px !important;
+height: 90px !important;
+
+}
+
+/*My ads will be circular, on the left, and vertical - and they shall match the aesthetic!*/
+.ads{
+    margin-top: -550px;
+    float: left;
+   
+}
+.ads img{
+background: 1px transparent;
+background-color: aqua;
+border-radius: 50%;
+width: 100px !important;
+height: 100px !important;
+}
+#sponsorlist{
+    display: block;
+}
+.movesponsor{
+    display: block;
+}
